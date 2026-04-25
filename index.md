@@ -1,4 +1,4 @@
-# Dylan Maray
+# [Dylan Maray](https://www.linkedin.com/in/dylan-maray/)
 **Data Analyst | Applied Math & Stats @ SBU**
 
 ## Technical Skills
