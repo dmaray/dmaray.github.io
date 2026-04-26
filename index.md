@@ -12,5 +12,13 @@
 * Developed a linear regression model in Python for price prediction.
 
 
+
+
+
+
+
+
+
+
 <style>.footer { display: none !important; }</style>
 
