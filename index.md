@@ -11,6 +11,8 @@
 ### [House Pricing Project](https://github.com/dmaray/House-Pricing-/blob/main/README.md)
 * Developed a linear regression model in Python for price prediction.
 
+## [Resume])(https://github.com/dmaray/dmaray.github.io/blob/main/Dylan_Maray_Resume_ML.pdf)
+
 
 
 
