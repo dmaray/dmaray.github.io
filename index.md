@@ -6,7 +6,7 @@
 * **Data:** Python (Pandas, NumPy), SQL, Tableau, Excel (SUMIFS, Pivot Tables)
 
 ## Featured Projects
-### [Walmart Sales Analysis]([https://github.com/dmaray/Walmart-Sales](https://github.com/dmaray/Walmart-Sales/blob/main/README.md))
+### [Walmart Sales Analysis](https://github.com/dmaray/Walmart-Sales](https://github.com/dmaray/Walmart-Sales/blob/main/README.md)
 * Built a regression model to analyze CPI and time effects on sales.
 ### [House Pricing Project](https://github.com/dmaray/House-Pricing-/blob/main/README.md)
 * Developed a linear regression model in Python for price prediction.
