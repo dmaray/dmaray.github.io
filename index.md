@@ -14,9 +14,6 @@
 
 
 
-https://github.com/dmaray/Walmart-Sales/blob/main/README.md
-https://github.com/dmaray/House-Pricing-/blob/main/README.md
-https://github.com/dmaray/dmaray.github.io/blob/main/Dylan_Maray_Resume_ML.pdf
 
 
 
