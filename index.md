@@ -8,7 +8,7 @@
 ## Featured Projects
 ### [Walmart Sales Analysis](https://github.com/dmaray/Walmart-Sales)
 * Built a regression model to analyze CPI and time effects on sales.
-### [House Pricing Project](https://github.com/dmaray/House-Pricing-)
+### [House Pricing Project](https://github.com/dmaray/House-Pricing-/blob/main/README.md)
 * Developed a linear regression model in Python for price prediction.
 
 
