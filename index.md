@@ -1,5 +1,4 @@
-# [JD](https://www.linkedin.com/in/dylan-maray/) <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+# [Dylan Maray](https://www.linkedin.com/in/dylan-maray/) 
 **Data Analyst | Applied Math & Stats @ SBU**
 
 ## Technical Skills
